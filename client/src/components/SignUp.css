@@ -1,0 +1,57 @@
+input {
+  padding: 20px 30px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  border: 3px solid pink;
+  font-size: 20px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.form-content {
+  margin-bottom: 30px;
+}
+
+label {
+  font-size: 20px;
+  margin: 10px;
+}
+
+button {
+  padding: 20px 30px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  border: 3px solid pink;
+  font-size: 20px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: aqua;
+}
+
+.btn-link {
+  padding: 20px 30px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  border: 3px solid pink;
+  font-size: 20px;
+  margin: 50px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.button-back {
+  margin: 30px;
+}
+
+p {
+  margin: 60px;
+  font-size: 30px;
+}
